@@ -26,7 +26,9 @@ Tips
 - Use the provided tests to ensure your app is running as expected
 - DO NOT ALTER THE PROVIDED TESTS
 
-## Screenshots
+Screenshots
+-----------
+
 <img src="assets/SelectALemon.png"
 width="256">&nbsp;&nbsp;&nbsp;
 <img src="assets/JuiceTheLemon.png"
