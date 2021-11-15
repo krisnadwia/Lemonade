@@ -31,13 +31,15 @@ Tips
 Screenshots
 -----------
 
+<img src="assets/LemonadeLogo.png"
+width="256">&nbsp;&nbsp;&nbsp;
 <img src="assets/SelectALemon.png"
 width="256">&nbsp;&nbsp;&nbsp;
 <img src="assets/JuiceTheLemon.png"
 width="256">&nbsp;&nbsp;&nbsp;
+
 <img src="assets/JuiceTheLemonCount.png"
 width="256">&nbsp;&nbsp;&nbsp;
-
 <img src="assets/DrinkYourLemonade.png"
 width="256">&nbsp;&nbsp;&nbsp;
 <img src="assets/StartAgain.png"
