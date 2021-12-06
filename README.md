@@ -5,6 +5,8 @@ Starter code for the first independent project for [Android Basics in Kotlin](ht
 
 https://developer.android.com/codelabs/basic-android-kotlin-training-project-lemonade?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-kotlin-four%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-training-project-lemonade#0
 
+Download this app: https://cloud.degoo.com/share/wXR6Ei9MKXkHMvxgwxU3WA
+
 Introduction
 ------------
 
